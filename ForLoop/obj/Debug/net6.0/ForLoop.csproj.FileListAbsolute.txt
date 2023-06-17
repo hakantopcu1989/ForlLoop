@@ -1,0 +1,15 @@
+E:\Patika\CSharpNetCore\ForLoop\bin\Debug\net6.0\ForLoop.exe
+E:\Patika\CSharpNetCore\ForLoop\bin\Debug\net6.0\ForLoop.deps.json
+E:\Patika\CSharpNetCore\ForLoop\bin\Debug\net6.0\ForLoop.runtimeconfig.json
+E:\Patika\CSharpNetCore\ForLoop\bin\Debug\net6.0\ForLoop.dll
+E:\Patika\CSharpNetCore\ForLoop\bin\Debug\net6.0\ForLoop.pdb
+E:\Patika\CSharpNetCore\ForLoop\obj\Debug\net6.0\ForLoop.csproj.AssemblyReference.cache
+E:\Patika\CSharpNetCore\ForLoop\obj\Debug\net6.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Patika\CSharpNetCore\ForLoop\obj\Debug\net6.0\ForLoop.AssemblyInfoInputs.cache
+E:\Patika\CSharpNetCore\ForLoop\obj\Debug\net6.0\ForLoop.AssemblyInfo.cs
+E:\Patika\CSharpNetCore\ForLoop\obj\Debug\net6.0\ForLoop.csproj.CoreCompileInputs.cache
+E:\Patika\CSharpNetCore\ForLoop\obj\Debug\net6.0\ForLoop.dll
+E:\Patika\CSharpNetCore\ForLoop\obj\Debug\net6.0\refint\ForLoop.dll
+E:\Patika\CSharpNetCore\ForLoop\obj\Debug\net6.0\ForLoop.pdb
+E:\Patika\CSharpNetCore\ForLoop\obj\Debug\net6.0\ForLoop.genruntimeconfig.cache
+E:\Patika\CSharpNetCore\ForLoop\obj\Debug\net6.0\ref\ForLoop.dll
